@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+li{
+  cursor: pointer;
+}
+.post{
+  border: 2px solid black;
+  width: 200px;
+  height: 300px;
+}
+.post img{
+  margin: auto;
+  width: 100%;
+}
